@@ -46,7 +46,7 @@ I am using altair and running the 'graphs.py' file as a streamlit web applicatio
 
 # LLM Agents
 
-Here I exprerimented with openai, duckduckgo, lmstudio-zephyr, janai- mistral-ins-7b-q4, ollama-orca2, textgen-openhermes
+Here I exprerimented with openai, duckduckgo, lmstudio-zephyr, janai- mistral-ins-7b-q4, ollama-orca2, webui textgen-openhermes
 I ran all these LLMS simultaneously assigning them to do one agent task each. This can be seen in 'agent_test.py'. This ran into latency and GPU issues. I then used only lmsstudio and duckduckgo to write the below agents using 'agents.py' code.
 
 Create a Researcher agent to search for the best university in different countries for Robotics.
