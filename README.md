@@ -20,8 +20,8 @@ Openai,
 lmstudio-zephyr
 
 ## For testing I used the below 
-Janai- mistral-ins-7b-q4
-Ollama-orca2
+Janai- mistral-ins-7b-q4, 
+Ollama-orca2, 
 Webui textgen-openhermes
 
 # UniVoyaJ - Web portal to assist students seeking higher education 
