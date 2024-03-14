@@ -44,9 +44,6 @@ Here  I am using the 'univ_details.py' which is also a streamlit web page.
 Here I am showing the 3 bar graphs of the top 1000 universities using the filters based on country, world ranking and national ranking. 
 I am using altair and running the 'graphs.py' file as a streamlit web application. 
 
-The video of the website walkthrough is shared at
-https://drive.google.com/file/d/1ZpkJMyKh9xRhPyCq6CKaHZ_SUrBaOtth/view?usp=sharing
-
 # LLM Agents
 
 Here I exprerimented with openai, duckduckgo, lmstudio-zephyr, janai- mistral-ins-7b-q4, ollama-orca2, textgen-openhermes
@@ -59,3 +56,16 @@ A Formatter agent to build a report
 
 The output from the this code can be seen at 'result.txt'
 
+# Videos
+
+# Website
+The video of the website walkthrough is shared at
+https://drive.google.com/file/d/1ZpkJMyKh9xRhPyCq6CKaHZ_SUrBaOtth/view?usp=sharing
+
+# Scraper
+The video of the scraping walkthrough is shared at
+https://drive.google.com/file/d/1F8-nPBIa1bVXjyoNTUOXv5QWrOY26KpR/view?usp=sharing
+
+# LLM Agents
+The video of the agents walkthrough is shared at
+https://drive.google.com/file/d/16FnVkyYtKrQvln75YYuY5_6Ih9WjxfME/view?usp=sharing
