@@ -2,22 +2,23 @@
 The Voyage of finding the right University for higher education
 
 # Technologies 
-# Scraping 
-BeautifulSoup
-selenium
+## Scraping 
+BeautifulSoup, 
+selenium, 
 Chrome webdriver
 
-# Webpage and graphs
-Streamlit
-Pandas
-Folium
+## Webpage and graphs
+Streamlit,  
+Pandas, 
+Folium, 
 Altair
 
-# LLM Agents 
-Duckduckgo
-CrewAI
-Openai
+## LLM Agents 
+Duckduckgo, 
+CrewAI, 
+Openai, 
 lmstudio-zephyr
+
 # For Testing used the below but not for the final application
 Janai- mistral-ins-7b-q4
 Ollama-orca2
