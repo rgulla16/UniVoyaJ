@@ -1,6 +1,32 @@
 # UniVoyaJ
 The Voyage of finding the right University for higher education
 
+# Technologies 
+# Scraping 
+BeautifulSoup
+selenium
+Chrome webdriver
+
+# Webpage and graphs
+Streamlit
+Pandas
+Folium
+Altair
+
+# LLM Agents 
+Duckduckgo
+CrewAI
+Openai
+lmstudio-zephyr
+# For Testing used the below but not for the final application
+Janai- mistral-ins-7b-q4
+Ollama-orca2
+Webui textgen-openhermes
+
+# Web portal to assist students seeking undergrad and graduation eduction 
+Many students rely on information from websites, consultants and their seniors for deciding on the universities they need to apply for higher education. They often waste time and money applying to universities where they dont stand a chance, cannot afford or dont like the demographics. This portal assists students by making the information available in a manner that they can easily navigate. The LLM Agents further assist them in summarizing their preferences. 
+
+
 # Components of the system
 
 # scraper code
