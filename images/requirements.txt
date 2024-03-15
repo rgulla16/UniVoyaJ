@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+folium
+requests
+psycopg2-binary
+python-dotenv
+streamlit-folium
+sqlalchemy
+pandas
+altair
